@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alanni, an <a href="https://linkedin.com/in/alanni-billings-13a07330b">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alanni, an <a href="https://linkedin.com/in/alannibillings">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
